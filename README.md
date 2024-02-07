@@ -32,5 +32,8 @@ Dense Layer - The dense layer is a neural network layer that is connected deeply
 Activation Function(ReLU) - The rectified linear activation function or ReLU for short is a piecewise linear function that will output the input directly if it is positive, otherwise, it will output zero.The rectified linear activation function overcomes the vanishing gradient problem, allowing models to learn faster and perform better.
 Activation Function(Softmax) - The softmax function is used as the activation function in the output layer of neural network models that predict a multinomial probability distribution. The main advantage of using Softmax is the output probabilities range. The range will 0 to 1, and the sum of all the probabilities will be equal to one.
 
+## Conclusion
+Accuracy of the test data has improved significantly from 50-53% range to 83% after using Optimizer ,Augmentor and by fixing class imbalance.
+
 ## Contact 
 darshu.rnr@gmail.com
